@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.joro.calculator.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-01-23T06:16:57" hostname="rodopi" time="0.003">
+  <properties/>
+  <testcase name="testSum" classname="com.joro.calculator.CalculatorTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
